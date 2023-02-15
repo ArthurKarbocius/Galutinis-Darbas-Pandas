@@ -1,0 +1,21 @@
+Ši užduoti privaloma visiems (visos kitos neprivalomos).
+Čia mūsų galutinė Python atsiskaitymo užduotis.
+
+Faile pateikta 2018 metų programuotojų atlyginimų apklausos rezultatai. Šią apklausą vykdė Povilas Korop (galima pasigooglinti daugiau informacijos, jeigu reikia).
+
+Pasiimkite prisegtą failą. Jį nuskaitykite.
+
+Atlikite šiuos veiksmus:
+- Atrinkite visas skirtingas programavimo kalbas su kuo dirba žmonės.
+- Atrinkite visus skirtingus miestus iš kurių yra šie respondentai.
+- Raskite didžiausią ir mažiausią įvestus atlyginimus.
+- Raskite atlyginimų vidurkį.
+- Raskite atlyginimų vidurkius pagal lygį (1 - junior, 2 - mid, 3 - senior).
+
+- Papildoma mano sugalvota užduotis*. 
+- Populiariausios programavimo kalbos mažėjimo tvarka.
+- Kiek sudaro procentaliai % populiariausia prog. kalba iš visų apklaustųjų bendro skaičiaus?
+
+Gautus atsakymus išveskite į txt failiuką.
+
+PS. jeigu kažkas nesigauna, kaip tarkim nuskaitymas iš failo, tada bent susikelkite duomenis tiesiai į py failiuką ir aprašykite algoritmus.
